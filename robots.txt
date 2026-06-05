@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://eastprovidencepestcontrol.com/sitemap.xml
